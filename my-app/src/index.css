@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Teko', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: rgb(125,118,231);
+background: linear-gradient(90deg, rgba(125,118,231,1) 0%, rgba(104,103,213,1) 21%, rgba(129,129,255,1) 45%, rgba(50,216,250,1) 69%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

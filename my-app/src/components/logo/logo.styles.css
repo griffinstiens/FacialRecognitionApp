@@ -1,0 +1,7 @@
+.Tilt {
+   border: 1px solid black;
+   padding-top: 80px;
+   margin: 0 auto;
+   background: rgb(125,118,231);
+   background: linear-gradient(266deg, rgba(125,118,231,1) 0%, rgba(104,103,213,1) 21%, rgba(129,129,255,1) 45%, rgba(50,216,250,1) 69%);
+}
